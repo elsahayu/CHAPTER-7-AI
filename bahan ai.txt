@@ -1,0 +1,34 @@
+EXAMPLE ADA 46
+EXERCISE ADA 34
+
+DISARANKAN PAKAI GOOGLE COLAB
+bahan yang harus diinstall di chapter 7
+-python 3.79 : https://www.python.org/downloads/release/python-379/
+-tensorflow : 1.15
+percobaan 5: pip install opencv-python 
+folder yolov3-coco:
+-coco-labels: https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV/blob/master/yolov3-coco/coco-labels
+-coco-names: https://github.com/pjreddie/darknet/blob/master/data/coco.names
+-yolov3.cfg: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+-yolov3.weights: https://pjreddie.com/media/files/yolov3.weights
+
+percobaan 6: 
+-MobileNetSSD_deploy.caffemodel,MobileNetSSD_deploy.prototxt.txt: https://github.com/TheNsBhasin/DNN_Object_Detection/
+
+percobaan 7:
+-resnet50_imagenet_tf.2.0.h5: https://github.com/OlafenwaMoses/ImageAI/releases/download/essentials-v5/resnet50_imagenet_tf.2.0.h5
+-resnet50_coco_best_v2.0.1.h5: https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
+
+percobaan 10 : 
+-mask_rcnn_balloon.h5 : https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5
+-pip install mrcnn scikit-image
+
+percobaan 13 : 
+-cascade trainer gui : https://amin-ahmadi.com/cascade-trainer-gui/
+-opencv-python 4.5.5
+
+-percobaan 14:
+-VoTT : https://github.com/Microsoft/VoTT/releases
+
+-percobaan 17-18: pip install opencv-contrib-python
+-percobaan 19 : pakai google colab
